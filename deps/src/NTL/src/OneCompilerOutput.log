@@ -1,0 +1,1 @@
+g++-10 -I../include -I.  -g -O2 -pthread  -o  CheckThreads CheckThreads.cpp -lm

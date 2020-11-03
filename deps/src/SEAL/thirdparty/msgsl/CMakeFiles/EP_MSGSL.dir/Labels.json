@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/CMakeFiles/EP_MSGSL"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/CMakeFiles/EP_MSGSL.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/CMakeFiles/EP_MSGSL-complete.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-install.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-mkdir.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-download.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-update.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-patch.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-configure.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-build.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"EP_MSGSL"
+		],
+		"name" : "EP_MSGSL"
+	}
+}

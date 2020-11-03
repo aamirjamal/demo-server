@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/CMakeFiles/EP_ZLIB"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/CMakeFiles/EP_ZLIB.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/CMakeFiles/EP_ZLIB-complete.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/stamp/EP_ZLIB-install.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/stamp/EP_ZLIB-mkdir.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/stamp/EP_ZLIB-download.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/stamp/EP_ZLIB-update.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/stamp/EP_ZLIB-patch.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/stamp/EP_ZLIB-configure.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/stamp/EP_ZLIB-build.rule"
+		},
+		{
+			"file" : "/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/zlib/stamp/EP_ZLIB-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"EP_ZLIB"
+		],
+		"name" : "EP_ZLIB"
+	}
+}

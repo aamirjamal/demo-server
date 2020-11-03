@@ -1,0 +1,14 @@
+# Target labels
+ EP_MSGSL
+# Source files and their labels
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/CMakeFiles/EP_MSGSL
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/CMakeFiles/EP_MSGSL.rule
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/CMakeFiles/EP_MSGSL-complete.rule
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-install.rule
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-mkdir.rule
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-download.rule
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-update.rule
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-patch.rule
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-configure.rule
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-build.rule
+/Users/aj/Documents/playground/freshstart/SparkFHE/deps/src/SEAL/thirdparty/msgsl/stamp/EP_MSGSL-test.rule
